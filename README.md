@@ -1,6 +1,7 @@
 ## About Me
 
-Hi, Alexander George Edouardo Martupuluh. I mainly use functional programming languages.
+Hi, Alexander George Edouardo Martupuluh.
+I mainly use functional programming languages.
 Nevertheless, I'm not cynical about other programming languages and paradigms,
 even though I prefer the formalisable aspects, rather than the often subjective
 appeal to taste or intuition.
@@ -9,13 +10,6 @@ appeal to taste or intuition.
 
 - Languages: English, Indonesian, Chinese, and Japanese
 - Citizenship: Indonesia
-
-### Get in touch
-
-Reach me at:
-
-- E-mail: <heyagems@gmail.com>
-- Twitter: [@\agemkai](https://twitter.com/agemkai)
 
 ### Languages
 
