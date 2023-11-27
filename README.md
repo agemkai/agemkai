@@ -15,7 +15,7 @@ appeal to taste or intuition.
 Reach me at:
 
 - E-mail: <heyagems@gmail.com>
-- Twitter: [@\agemkai(https://twitter.com/agemkai)
+- Twitter: (https://twitter.com/agemkai)
 
 ### Languages
 
