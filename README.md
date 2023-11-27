@@ -34,3 +34,10 @@ Reach me at:
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![agemkai github stats](https://github-readme-stats.vercel.app/api?username=agemkai&show_icons=true&theme=dracula)
