@@ -19,6 +19,7 @@ appeal to taste or intuition.
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![PHP](https://img.shields.io/badge/-php-000?&logo=php)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 
 ### Technologies
 
