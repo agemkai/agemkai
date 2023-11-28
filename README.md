@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, Alexander George Edouardo Martupuluh.
+Hi, I'm Alexander George Edouardo Martupuluh.
 I mainly use functional programming languages.
 Nevertheless, I'm not cynical about other programming languages and paradigms,
 even though I prefer the formalisable aspects, rather than the often subjective
