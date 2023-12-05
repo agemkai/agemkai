@@ -1,38 +1,38 @@
 ## About Me
 
-Hey there! I'm Alexander George Edouardo Martupuluh, diving into the world of software engineering for several years now. Since starting my journey, I've been a dedicated High-Performance Computing (HPC) Software Engineer, specializing in functional programming languages. Along the way, I've worn multiple hats - from being a front-end enthusiast to diving deep into the intricate realms of back-end development, finally embracing the exciting challenges of being a full-stack developer.
+Hey there! I'm Alexander George Edouardo Martupuluh, a skilled High-Performance Computing (HPC) Software Engineer deeply entrenched in the world of functional programming languages. My voyage started with an insatiable passion for front-end wizardry, delved into the intricate back-end universe, and eventually blossomed into a flair for comprehensive full-stack mastery. Crafting adaptable, scalable solutions tailored to various tech needs is my forte.
 
 ### Professional Expertise
 
 In my toolkit, you'll find a diverse set of languages:
 
-- **Functional:** Python
+- **Web Development:** HTML, CSS, JavaScript, TypeScript, PHP, Ruby, React.js, Angular, Vue.js
+- **Functional:** Python, Haskell, Scala, Erlang, Clojure
 - **System Programming:** C, C++, Rust, Go
-- **Web Development:** JavaScript, TypeScript, PHP, Ruby, HTML, CSS
-- **Other:** Java, Swift, Kotlin
+- **Other:** Java, Swift, Kotlin, .NET, Shell Scripting
 
 ### Proficient Technologies
 
 My expertise spans various technologies catering to different facets of development:
 
+- **Backend Technologies:** Node.js, Express, Django, Spring Boot, Flask, .NET Core
 - **Cloud Services:** AWS, Google Cloud Platform (GCP), Azure, Heroku
 - **Containerization:** Docker, Kubernetes, OpenShift
+- **Database Management:** SQL, MongoDB, PostgreSQL, MySQL, Redis
+- **Version Control:** Git, GitLab, Bitbucket
+- **Machine Learning:** TensorFlow, PyTorch, scikit-learn
+- **IDE:** VS Code, IntelliJ IDEA, PyCharm, Eclipse
 - **Operating Systems:** Linux, Unix, Windows Server
-- **Machine Learning:** PyTorch, TensorFlow
-- **Frontend Development:** React, Vue.js, Angular
-- **Backend Technologies:** Node.js, Express, Django
-- **Database Management:** SQL, MongoDB, Redis, PostgreSQL, MySQL
-- **Version Control:** Git, GitLab
-- **IDE:** VS Code
 
 ## Get in Touch
 
-Let's connect across different platforms:
+Let's connect through various platforms:
 
+- **[Your Website](https://your_website.com)**
 - **[Twitter](https://twitter.com/agemkai)**
 - **[Instagram](https://www.instagram.com/agemkai)**
+- **[Facebook](https://www.facebook.com/agemkai)**
 - **[Reddit](https://www.reddit.com/user/agemkai)**
-- **[Website](https://your_website.com)**
 - **[GitHub](https://github.com/agemkai)**
 
 ## Stats and Languages
