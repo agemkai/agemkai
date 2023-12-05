@@ -6,10 +6,10 @@ Hey there! I'm Alexander George Edouardo Martupuluh, diving into the world of so
 
 In my toolkit, you'll find a diverse set of languages:
 
-- **Functional:** Python, Haskell, Erlang, Scala
+- **Functional:** Python
 - **System Programming:** C, C++, Rust, Go
 - **Web Development:** JavaScript, TypeScript, PHP, Ruby, HTML, CSS
-- **Other:** Java, Swift, Kotlin, Shell Scripting
+- **Other:** Java, Swift, Kotlin
 
 ### Proficient Technologies
 
