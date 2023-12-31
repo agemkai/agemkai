@@ -6,22 +6,22 @@ Hey there! I'm Alexander George Edouardo Martupuluh, a skilled High-Performance 
 
 In my toolkit, you'll find a diverse set of languages:
 
-- **Web Development:** HTML, CSS, JavaScript, TypeScript, PHP, Ruby, React.js, Angular, Vue.js
-- **Functional:** Python, Haskell, Scala, Erlang, Clojure
-- **System Programming:** C, C++, Rust, Go
-- **Other:** Java, Swift, Kotlin, .NET, Shell Scripting
+- **Web Development:** HTML, CSS, JavaScript, TypeScript, PHP
+- **Functional:** Python
+- **System Programming:** C, C++, Go
+- **Other:** Java, Swift, Kotlin, Flutter
 
 ### Proficient Technologies
 
 My expertise spans various technologies catering to different facets of development:
 
-- **Backend Technologies:** Node.js, Express, Django, Spring Boot, Flask, .NET Core
-- **Cloud Services:** AWS, Google Cloud Platform (GCP), Azure, Heroku
+- **Backend Technologies:** Node.js, Express, Django
+- **Cloud Services:** AWS, Google Cloud Platform (GCP)
 - **Containerization:** Docker, Kubernetes, OpenShift
-- **Database Management:** SQL, MongoDB, PostgreSQL, MySQL, Redis
-- **Version Control:** Git, GitLab, Bitbucket
-- **Machine Learning:** TensorFlow, PyTorch, scikit-learn
-- **IDE:** VS Code, IntelliJ IDEA, PyCharm, Eclipse
+- **Database Management:** SQL, MySQL
+- **Version Control:** Git, GitLab
+- **Machine Learning:** PyTorch
+- **IDE:** VS Code
 - **Operating Systems:** Linux, Unix, Windows Server
 
 ## Get in Touch
